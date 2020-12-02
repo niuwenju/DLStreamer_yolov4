@@ -14,6 +14,8 @@ Tensorflow=1.12.0
 
 Convert yolov4.weights to yolov4.pb and then to IR files shows in [OpenVINO-YOLOV4](https://github.com/TNTWEN/OpenVINO-YOLOV4)
 
+downloads IR files or convert IR files to model folder
+
 change model file paths and test video file path in yolov4.sh
 
 and then just run
